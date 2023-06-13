@@ -10,13 +10,13 @@ README also available in:
 
 ## Installing
 
-CentAPP SDK is available on PyPI:
+CentApp SDK is available on PyPI:
 
 ```console
 $ python -m pip install centapp
 ```
 
-CentAPP SDK officially supports Python 3.7+.
+CentApp SDK officially supports Python 3.7+.
 
 ## API Version and Reference
 
