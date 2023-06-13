@@ -1,5 +1,7 @@
 from setuptools import setup
 
+version = '1.0.1'
+
 requires = [
     'requests'
 ]
@@ -12,7 +14,7 @@ def readme():
 
 setup(
     name='centapp',
-    version='1.0.0',
+    version=version,
     author='hteppl',
     author_email='hteppl.dev@gmail.com',
     description='Python client library for interacting with CentApp API',

@@ -1,12 +1,16 @@
 # <img src="https://raw.githubusercontent.com/hteppl/centapp-sdk-python/master/docs/logo-main.svg" alt="logo-main" height="66">
 
+[![LICENSE](https://img.shields.io/pypi/l/centapp)](https://pypi.org/project/centapp)
+[![Supported Versions](https://img.shields.io/pypi/pyversions/requests.svg)](https://pypi.org/project/centapp)
+[![PyPI Version](https://img.shields.io/pypi/v/centapp?color=%23e04f1f)](https://pypi.org/project/centapp)
+
 #### Python client library for interacting with [CentApp](https://cent.app/) API.
 
 You can find more information on the official [CentApp website](https://cent.app/).
 
 README also available in:
 
-- [Русский](https://raw.githubusercontent.com/hteppl/centapp-sdk-python/master/docs/README_ru.md)
+- [Русский](https://github.com/hteppl/centapp-sdk-python/blob/master/docs/README_ru.md)
 
 ## Installing
 
