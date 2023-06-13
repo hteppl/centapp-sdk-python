@@ -1,4 +1,4 @@
-# <img src="logo-main.svg" alt="logo-main" height="66">
+# <img src="https://raw.githubusercontent.com/hteppl/centapp-sdk-python/master/docs/logo-main.svg" alt="logo-main" height="66">
 
 #### Клиент для взаимодействия с АПИ платежной системы [CentApp](https://cent.app/).
 

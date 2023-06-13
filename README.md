@@ -1,4 +1,4 @@
-# <img src="docs/logo-main.svg" alt="logo-main" height="66">
+# <img src="https://raw.githubusercontent.com/hteppl/centapp-sdk-python/master/docs/logo-main.svg" alt="logo-main" height="66">
 
 #### Python client library for interacting with [CentApp](https://cent.app/) API.
 
@@ -6,7 +6,7 @@ You can find more information on the official [CentApp website](https://cent.app
 
 README also available in:
 
-- [Русский](docs/README_ru.md)
+- [Русский](https://raw.githubusercontent.com/hteppl/centapp-sdk-python/master/docs/README_ru.md)
 
 ## Installing
 
