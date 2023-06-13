@@ -42,11 +42,13 @@ You can find more examples [in examples folder](https://github.com/hteppl/centap
 **Bill creation example:**
 
 ```python
+from centapp import centapp
+
 token = ''
 amount = 100
 shop_id = ''
 
-cent_app = CentApp(token)
+cent_app = centapp.CentApp(token)
 res = cent_app.bill().create(amount, shop_id)
 print(res)
 ```
@@ -54,9 +56,11 @@ print(res)
 **Merchant balance example:**
 
 ```python
+from centapp import centapp
+
 token = ''
 
-cent_app = CentApp(token)
+cent_app = centapp.CentApp(token)
 res = cent_app.merchant().balance()
 print(res)
 ```
