@@ -35,4 +35,25 @@ The list of available modules:
 
 You can find more examples [in examples folder](https://github.com/hteppl/centapp-sdk-python/tree/master/examples).
 
+**Bill creation example:**
+
+```python
+token = ''
+amount = 100
+shop_id = ''
+
+cent_app = CentApp(token)
+res = cent_app.bill().create(amount, shop_id)
+print(res)
+```
+
+**Merchant balance example:**
+
+```python
+token = ''
+
+cent_app = CentApp(token)
+res = cent_app.merchant().balance()
+print(res)
+```
 
